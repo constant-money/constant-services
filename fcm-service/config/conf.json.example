@@ -1,0 +1,6 @@
+{
+  "env": "DEV",
+  "port": 8092,
+  "gcm_endpoint": "https://fcm.googleapis.com/fcm/send",
+  "gcm_server_key": ""
+}
