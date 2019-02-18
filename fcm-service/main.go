@@ -3,7 +3,7 @@ package main
 import (
 	_ "fmt"
 
-	"github.com/constant-money/constant-mvp/fcm-service/server"
+	"github.com/constant-money/constant-services/fcm-service/server"
 )
 
 func main() {

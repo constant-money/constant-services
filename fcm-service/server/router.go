@@ -3,7 +3,7 @@ package server
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/constant-money/constant-mvp/fcm-service/controllers"
+	"github.com/constant-money/constant-services/fcm-service/controllers"
 )
 
 func NewRouter() *gin.Engine {

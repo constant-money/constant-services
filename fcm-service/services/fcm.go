@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/constant-money/constant-mvp/fcm-service/config"
+	"github.com/constant-money/constant-services/fcm-service/config"
 )
 
 // FCMService :

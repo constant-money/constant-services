@@ -1,10 +1,10 @@
 package: .
 import:
-- package: github.com/constant-money/constant-mvp
-  subpackages:
-  - fcm-service/config
-  - fcm-service/controllers
-  - fcm-service/server
-  - fcm-service/services
-- package: github.com/gin-gonic/gin
-  version: v1.3.0
+  - package: github.com/constant-money/constant-services
+    subpackages:
+      - fcm-service/config
+      - fcm-service/controllers
+      - fcm-service/server
+      - fcm-service/services
+  - package: github.com/gin-gonic/gin
+    version: v1.3.0
